@@ -1,2 +1,2 @@
 # Tictactoe
-Tictactoe game made in C£
+Tictactoe game made in C#
